@@ -37,4 +37,4 @@ pending.
 * The user should be able to pick a task and change its status:
     * If the task is pending it will become completed
     * If the task is completed it will become pending
-* The to-do list should be updated accordingly, moving tasks between groups
+* The to-do list should be updated accordingly, moving tasks between groups# TasksManager
