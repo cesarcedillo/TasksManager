@@ -1,0 +1,11 @@
+html {
+  background-color: #3f3f3f;
+  color: whitesmoke;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  font-weight: bold;
+  margin: 10px;
+}

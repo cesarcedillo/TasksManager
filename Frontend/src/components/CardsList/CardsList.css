@@ -1,0 +1,14 @@
+.listCards_item {
+  padding-top: 5px;
+}
+
+.listCards_main {
+  width: 100%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.listCards_title {
+  width: 100%;
+  text-transform: capitalize;
+}
