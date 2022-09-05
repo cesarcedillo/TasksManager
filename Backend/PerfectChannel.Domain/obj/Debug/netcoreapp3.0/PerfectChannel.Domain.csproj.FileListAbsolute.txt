@@ -1,0 +1,10 @@
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\bin\Debug\netcoreapp3.0\PerfectChannel.Domain.deps.json
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\bin\Debug\netcoreapp3.0\PerfectChannel.Domain.dll
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\bin\Debug\netcoreapp3.0\PerfectChannel.Domain.pdb
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\obj\Debug\netcoreapp3.0\PerfectChannel.Domain.csproj.AssemblyReference.cache
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\obj\Debug\netcoreapp3.0\PerfectChannel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\obj\Debug\netcoreapp3.0\PerfectChannel.Domain.AssemblyInfoInputs.cache
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\obj\Debug\netcoreapp3.0\PerfectChannel.Domain.AssemblyInfo.cs
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\obj\Debug\netcoreapp3.0\PerfectChannel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\obj\Debug\netcoreapp3.0\PerfectChannel.Domain.dll
+C:\Users\CesarCedillo\source\repos\TasksManager\Backend\PerfectChannel.Domain\obj\Debug\netcoreapp3.0\PerfectChannel.Domain.pdb

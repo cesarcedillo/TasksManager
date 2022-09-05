@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WgCSNrIiz2vLCBJne3F4Qc7GDgJr19G406yH8Pj/9mcOITS2ZftLPIKNJyy1fDWIxZ9zfK5nq9QpWyXWLDlxNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CesarCedillo\\source\\repos\\TasksManager\\Backend\\PerfectChannel.Data\\PerfectChannel.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CesarCedillo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\CesarCedillo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\CesarCedillo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
